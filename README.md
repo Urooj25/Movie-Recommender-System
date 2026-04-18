@@ -27,6 +27,5 @@ As an Electrical Engineering student with a pre-medical background, I developed 
 
 ## 📂 Project Structure
 - `movie_system.ipynb`: The main logic and preprocessing.
-- `app.py`: Streamlit web application code.
 - `movie_dict.pkl`: Serialized movie data.
 - `similarity.pkl`: Calculated similarity matrix (Not uploaded due to size).
